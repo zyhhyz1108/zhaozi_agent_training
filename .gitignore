@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+training.db
+training.db-*
+node_modules/
+dist/
+agent/logs/
+/data/chunks.json
+/data/embeddings.json
